@@ -1,5 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1790244704.13414 "main.tex" "main.pdf" "main" 1790244704.341 0
+["pdflatex"] 1792164556.38958 "/Users/pavel/Desktop/Me-and-Masha/main.tex" "main.pdf" "main" 1792164556.59738 0
+  "/Users/pavel/Desktop/Me-and-Masha/main.tex" 1792164556.19267 21117 8e7207d213407404d22360d43497416c ""
   "/Users/pavel/Library/texlive/2026basic/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1790241383.01337 3304 6a543c07045572737981351171e0505e ""
   "/Users/pavel/Library/texlive/2026basic/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm" 1790233359.03919 3316 0992aa03d0c75498a0b6fb905d9eaab6 ""
   "/Users/pavel/Library/texlive/2026basic/texmf-var/fonts/tfm/lh/lh-t2a/labx2488.tfm" 1790233358.2574 3304 10c1a71cb294f8a8339c46823bcc15f2 ""
@@ -66,11 +67,11 @@
   "/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1761248321 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
   "/usr/local/texlive/2026basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
   "/usr/local/texlive/2026basic/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
-  "/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1790233183 276405 00006c5235d7efaead44b804eca9ba43 ""
-  "/usr/local/texlive/2026basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1790231838 2966196 5736ac051d4c7475c022e319577ac949 ""
+  "/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1791200006 309090 1c14a640aca04e2263c896ba350bfd8a ""
+  "/usr/local/texlive/2026basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1791200011 3042929 03230d9a567232030f97e1250a68d525 ""
   "/usr/local/texlive/2026basic/texmf.cnf" 1772405582 628 bbc09d6d38872d53c11bb48dc9b14e88 ""
-  "main.aux" 1790244704.28905 170 1fe9062f69e76cce426ae56f61a02db6 "pdflatex"
-  "main.tex" 1790244698.46511 21037 598f12945def2fcd297b40f1b746e9de ""
+  "main.aux" 1792164556.55236 170 1fe9062f69e76cce426ae56f61a02db6 "pdflatex"
+  "main.tex" 1792164556.19267 21117 8e7207d213407404d22360d43497416c ""
   (generated)
   "main.aux"
   "main.log"

@@ -1,17 +1,17 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.24)  24 SEP 2026 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.10.5)  16 OCT 2026 18:29
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**/Users/pavel/Desktop/Me-and-Masha/main.tex
+(/Users/pavel/Desktop/Me-and-Masha/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/extsizes/extreport.cls
 Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/extsizes/size14.clo
 File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/exscale.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2025/06/05 v2.1i Standard LaTeX package exscale
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
@@ -32,75 +32,49 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen149
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2026/02/14 v26.3 The multilingual framework for LuaLaTeX, pdfLaT
-eX and XeLaTeX
+) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/02/14 v26.3 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count284
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2078.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2080.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2082.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2083.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2084.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2086.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2111.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2111.
 \U@D=\dimen150
-\l@unhyphenated=\language23
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel/txtbabel.def)
+\l@unhyphenated=\language33
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count285
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel/locale/en/babel-engl
-ish.tex)
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel/locale/ru/babel-russ
-ian.tex)
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel/locale/en/babel-english.tex) (/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex)
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 4330.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel-english/english.ldf
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language7). Reported on input line 105.
+(babel)             (\language10). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language7). Reported on input line 108.
+(babel)             (\language10). Reported on input line 108.
 )
 Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 4330.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel-russian/russianb.ldf
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/babel-russian/russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'Russian' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=0 instead on input line 32.
-
-Package babel Info: Hyphen rules for 'russian' set to \l@english
-(babel)             (\language0). Reported on input line 33.
 
 Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                A font encoding should be declared before babel.
 (babel)                Default `T2A' encoding will be loaded  on input line 78.
 
-
 (/Users/pavel/Library/texmf/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/t2aenc.dfu
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/t2aenc.dfu
 File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -303,16 +277,12 @@ File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
 ))
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
-))
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/fontenc.sty
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
-16.
-
-(/Users/pavel/Library/texmf/tex/latex/cyrillic/t2acmr.fd
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 116.
+ (/Users/pavel/Library/texmf/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/cmap/cmap.sty
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
 
 
@@ -320,46 +290,37 @@ Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
 
 ) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/graphics.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen153
-))
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen154
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count286
@@ -409,25 +370,20 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/geometry/geometry.sty
+)) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/local/texlive/2026basic/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count298
@@ -442,16 +398,13 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen168
 \Gm@layoutvoffset=\dimen169
 \Gm@dimlist=\toks23
-)
-(/Users/pavel/Library/texmf/tex/latex/multirow/multirow.sty
+) (/Users/pavel/Library/texmf/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip54
 \multirow@cntb=\count301
 \multirow@dima=\skip55
 \bigstrutjot=\dimen170
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
-ef
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count302
 ) (./main.aux
@@ -477,8 +430,7 @@ LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Info: Redefining \th on input line 15.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2026basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count303
 \scratchdimen=\dimen171
@@ -491,16 +443,11 @@ LaTeX Info: Redefining \th on input line 15.
 \MPnumerator=\count307
 \makeMPintoPDFobject=\count308
 \everyMPtoPDFconversion=\toks25
-)
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
-ty
+) (/usr/local/texlive/2026basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -538,245 +485,27 @@ e
 
 <<t2a.cmap>><<ot1.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
-
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
-
-
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/us
-r/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}
-]
-Overfull \hbox (45.56313pt too wide) in paragraph at lines 27--28
-[]\T2A/cmr/m/n/14.4 Действие игр серии As-sas-sin's Creed происходит в тщательн
-о воссозданных исторических
- []
-
-
-Overfull \hbox (3.9023pt too wide) in paragraph at lines 33--34
-\T2A/cmr/m/n/14.4 уничтоженный Леманом Руссом, прозванным палачјм императора, и
- его волками.
- []
-
-
-Overfull \hbox (11.13098pt too wide) in paragraph at lines 45--46
-[]\T2A/cmr/m/n/14.4 У самцов плодовых мушек дрозофИл синтез феромонов усиливает
-ся под действием
- []
-
-
-Overfull \hbox (9.41812pt too wide) in paragraph at lines 47--48
-[]\T2A/cmr/m/n/14.4 Ответ: метиловый спирт. Зачјт: метанол, древесный спирт, ка
-рбинол, метилгидрат,
+{/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
+Overfull \hbox (9.20966pt too wide) in paragraph at lines 25--26
+[]\T2A/cmr/m/n/14.4 Комментарий: при-марх за-яв-лял, что во-пре-ки то-му, что чис-ло 13 счи-та-ет-ся несчаст-
  []
 
 [1]
-Overfull \hbox (11.11743pt too wide) in paragraph at lines 51--52
-[]\T2A/cmr/m/n/14.4 Американский ѕНаутИлусї оказался ТАМ в 1959 году первым, чт
-о вполне логично.
+Overfull \hbox (6.61375pt too wide) in paragraph at lines 75--76
+[]\T2A/cmr/bx/n/14.4 УКАЗАНИЕ ВЕ-ДУ-ЩЕ-МУ: СДЕ-ЛАТЬ АК-ЦЕНТ НА СЛО-ВАХ ѕПЕР-
  []
 
-
-Overfull \hbox (0.26472pt too wide) in paragraph at lines 58--59
-[]\T2A/cmr/m/n/14.4 Этот святой жил предположительно в V-VII веке, прославился 
-отшельничеством,
- []
-
-
-Overfull \hbox (3.49998pt too wide) in paragraph at lines 62--63
-\T2A/cmr/m/n/14.4 используется в греческом варианте ^^V Патапий, Патапиос. Ну, 
-а Михайло Потапыч
- []
-
-
-Overfull \hbox (18.74275pt too wide) in paragraph at lines 64--65
-[]\T2A/cmr/m/n/14.4 В одной книге изобретение БЕтти НЕсмит Грэм названо ѕволшеб
-ной маскировочной
- []
-
-
-Overfull \hbox (9.80745pt too wide) in paragraph at lines 70--71
-\T2A/cmr/m/n/14.4 на первую экспедицию. Некоторые другие ОНИ после путешествий 
-Пржевальского
- []
-
-
-Overfull \hbox (25.6146pt too wide) in paragraph at lines 74--76
-\T2A/cmr/m/n/14.4 комбинации. Добыв игрой необходимую сумму, карты навсегда ост
-авил. Путешествия
- []
-
-
-Overfull \hbox (27.50203pt too wide) in paragraph at lines 74--76
-\T2A/cmr/m/n/14.4 Пржевальского позволили составить либо уточнить географически
-е карты Восточной
- []
-
-
-Overfull \hbox (54.68343pt too wide) in paragraph at lines 77--78
-[]\T2A/cmr/bx/n/14.4 УКАЗАНИЕ ВЕДУЩЕМУ: СДЕЛАТЬ АКЦЕНТ НА СЛОВАХ ѕПЕРВОГОї
- []
-
-
-Overfull \hbox (10.56914pt too wide) in paragraph at lines 79--80
-[]\T2A/cmr/m/n/14.4 На одной карикатуре осуществлению очередного амбициозного п
-роекта ПЕРВОГО
- []
-
-
-Overfull \hbox (29.02339pt too wide) in paragraph at lines 83--84
-[]\T2A/cmr/m/n/14.4 Комментарий. Видимо, одного города на болоте императору пок
-азалось недостаточно.
- []
-
-[2]
-Overfull \hbox (8.27422pt too wide) in paragraph at lines 85--86
-\T2A/cmr/m/n/14.4 пакистанскому ЕМУ, по аналогии с двумя другими, дали неофициа
-льное прозвище
- []
-
-
-Overfull \hbox (25.04205pt too wide) in paragraph at lines 85--86
-\T2A/cmr/m/n/14.4 Лол [ЛОЛ]... Напишите полностью слово, сокращјнное в предыдущ
-ем предложении. 
- []
-
-
-Overfull \hbox (15.14143pt too wide) in paragraph at lines 89--90
-[]\T2A/cmr/m/n/14.4 Комментарий. ОН ^^V кинематограф. По аналогии с более извес
-тными американским
- []
-
-
-Overfull \hbox (23.70595pt too wide) in paragraph at lines 89--90
-\T2A/cmr/m/n/14.4 Голливудом и индийским Болливудом (названным по городу Бомбею
-), кинематограф
- []
-
-
-Overfull \hbox (29.41028pt too wide) in paragraph at lines 95--96
-[]\T2A/cmr/m/n/14.4 Комментарий. РОберт ЗУбрин как-то заметил: ѕЕсли Земля ^^U 
-колыбель человечества,
- []
-
-
-Overfull \hbox (22.7538pt too wide) in paragraph at lines 95--96
-\T2A/cmr/m/n/14.4 то Солнечная система ^^U школьный дворї. В статье Википедии ѕ
-Колыбель НьЮтонаї
- []
-
-
-Overfull \hbox (13.22894pt too wide) in paragraph at lines 97--98
-\T2A/cmr/m/n/14.4 известными сородичами, агамы однозначно предпочитают один ѕкв
-артетї другому.
- []
-
-
-Overfull \hbox (10.38216pt too wide) in paragraph at lines 101--102
-[]\T2A/cmr/m/n/14.4 Комментарий. Обитающие на пляжах Того агамы отказались от с
-воего привычного
- []
-
-[3]
-Overfull \hbox (25.2028pt too wide) in paragraph at lines 115--116
-[]\T2A/cmr/m/n/14.4 Когда в студенческой столовой ленинградского университета п
-оявились три варианта
- []
-
-
-Overfull \hbox (20.07582pt too wide) in paragraph at lines 119--120
-[]\T2A/cmr/m/n/14.4 Комментарий: комплексное число в математике состоит из мним
-ой и действительной
- []
-
-
-Overfull \hbox (3.52626pt too wide) in paragraph at lines 121--122
-[]\T2A/cmr/m/n/14.4 Станислав Ежи Лец спрашивает: ѕЧто ты скажешь на это, физик
-а? В отношениях
- []
-
-
-Overfull \hbox (3.5141pt too wide) in paragraph at lines 133--134
-[]\T2A/cmr/m/n/14.4 Один сингапурский математик назвал своего сына именем, попу
-лярным в Англии.
- []
-
-
-Overfull \hbox (27.70499pt too wide) in paragraph at lines 137--138
-[]\T2A/cmr/m/n/14.4 Голландский физик Гендрик Лоренц нашел соотношение между пл
-отностью вещества
- []
-
-
-Overfull \hbox (17.98553pt too wide) in paragraph at lines 137--138
-\T2A/cmr/m/n/14.4 и его преломляющей способностью. Несколько ранее эту же форму
-лу, но совершенно
- []
-
-
-Overfull \hbox (13.99184pt too wide) in paragraph at lines 137--138
-\T2A/cmr/m/n/14.4 другим путем получил датский физик. За формулой утвердилось д
-войное название.
- []
-
-[4]
-Overfull \hbox (4.67755pt too wide) in paragraph at lines 147--148
-[]\T2A/cmr/m/n/14.4 Комментарий: Возможны такие варианты сумм при произведении 
-36: 1+2+18=21;
- []
-
-
-Overfull \hbox (54.3417pt too wide) in paragraph at lines 149--150
-[]\T2A/cmr/m/n/14.4 Вы видите знак, которым обозначается единица измерения элек
-трического сопротивления
- []
-
-
-Overfull \hbox (31.50739pt too wide) in paragraph at lines 157--158
-\T2A/cmr/m/n/14.4 форуме эссе на одну очень интересную конспирологическую теори
-ю. Автор утверждал
- []
-
-
-Overfull \hbox (19.29121pt too wide) in paragraph at lines 157--158
-\T2A/cmr/m/n/14.4 что начиная приблизительно с 2016^^V2017 годов основная часть
- контента в интернете
- []
-
-
-Overfull \hbox (12.66324pt too wide) in paragraph at lines 157--158
-\T2A/cmr/m/n/14.4 имитации жизни: тексты, сгенерированные нейросетями, одинаков
-ые комментарии,
- []
-
-
-Overfull \hbox (37.78384pt too wide) in paragraph at lines 157--158
-\T2A/cmr/m/n/14.4 фальшивые аккаунты и активность ботов. Все это создает иллюзи
-ю бурной активности,
- []
-
-
-Overfull \hbox (2.18222pt too wide) in paragraph at lines 157--158
-\T2A/cmr/m/n/14.4 за которой все меньше настоящих людей. Радикальная версия тео
-рии утверждает,
- []
-
-
-Overfull \hbox (42.36348pt too wide) in paragraph at lines 157--158
-\T2A/cmr/m/n/14.4 что это является частью координированных усилий по манипулиро
-ванию общественным
- []
-
-
-Overfull \hbox (67.47842pt too wide) in paragraph at lines 157--158
-\T2A/cmr/m/n/14.4 чем научно обоснованным утверждением , считая что люди просто
- боятся неконтролируемое
+[2] [3] [4]
+Overfull \hbox (4.67755pt too wide) in paragraph at lines 145--146
+[]\T2A/cmr/m/n/14.4 Комментарий: Воз-мож-ны та-кие ва-ри-ан-ты сумм при про-из-ве-де-нии 36: 1+2+18=21;
  []
 
 [5] [6] (./main.aux)
@@ -786,21 +515,15 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5173 strings out of 469006
- 79269 string characters out of 5454813
- 491922 words of memory out of 5000000
- 33801 multiletter control sequences out of 15000+600000
+ 5172 strings out of 468477
+ 79335 string characters out of 5445368
+ 494867 words of memory out of 5000000
+ 33811 multiletter control sequences out of 15000+600000
  639095 words of font info for 70 fonts, out of 8000000 for 9000
- 319 hyphenation exceptions out of 8191
- 57i,6n,65p,1760b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sfbx1
-440.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sf
-bx2074.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super
-/sfbx2488.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-su
-per/sfrm1440.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm
--super/sfrm1728.pfb>
-Output written on main.pdf (7 pages, 112039 bytes).
+ 735 hyphenation exceptions out of 8191
+ 57i,6n,65p,882b,249s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on main.pdf (7 pages, 108966 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
